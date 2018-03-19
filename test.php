@@ -1,6 +1,6 @@
 <?php
 
-echo "this is the new world <br />";
+echo "this is the new world 2 <br />";
 ?>
 
-hello world 
+hello world 2
